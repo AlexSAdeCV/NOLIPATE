@@ -1,0 +1,16 @@
+C:\Users\alexa\source\repos\NOPILATE\bin\Debug\net8.0-windows\NolipateSimulator.exe
+C:\Users\alexa\source\repos\NOPILATE\bin\Debug\net8.0-windows\NolipateSimulator.deps.json
+C:\Users\alexa\source\repos\NOPILATE\bin\Debug\net8.0-windows\NolipateSimulator.runtimeconfig.json
+C:\Users\alexa\source\repos\NOPILATE\bin\Debug\net8.0-windows\NolipateSimulator.dll
+C:\Users\alexa\source\repos\NOPILATE\bin\Debug\net8.0-windows\NolipateSimulator.pdb
+C:\Users\alexa\source\repos\NOPILATE\obj\Debug\net8.0-windows\NolipateSimulator.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\NOPILATE\obj\Debug\net8.0-windows\NolipateSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\NOPILATE\obj\Debug\net8.0-windows\NolipateSimulator.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\NOPILATE\obj\Debug\net8.0-windows\NolipateSimulator.AssemblyInfo.cs
+C:\Users\alexa\source\repos\NOPILATE\obj\Debug\net8.0-windows\NolipateSimulator.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\NOPILATE\obj\Debug\net8.0-windows\NolipateSimulator.dll
+C:\Users\alexa\source\repos\NOPILATE\obj\Debug\net8.0-windows\refint\NolipateSimulator.dll
+C:\Users\alexa\source\repos\NOPILATE\obj\Debug\net8.0-windows\NolipateSimulator.pdb
+C:\Users\alexa\source\repos\NOPILATE\obj\Debug\net8.0-windows\NolipateSimulator.genruntimeconfig.cache
+C:\Users\alexa\source\repos\NOPILATE\obj\Debug\net8.0-windows\ref\NolipateSimulator.dll
+C:\Users\alexa\source\repos\NOPILATE\obj\Debug\net8.0-windows\NOPILATE.FormPrincipal.resources

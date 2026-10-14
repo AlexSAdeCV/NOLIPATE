@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|c:\\users\\alexa\\source\\repos\\nopilate\\ui\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|solutionrelative:ui\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|c:\\users\\alexa\\source\\repos\\nopilate\\core\\m4_semantico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|solutionrelative:core\\m4_semantico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|c:\\users\\alexa\\source\\repos\\nopilate\\nolipatesimulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|solutionrelative:nolipatesimulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|c:\\users\\alexa\\source\\repos\\nopilate\\core\\m3_sintactico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|solutionrelative:core\\m3_sintactico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|c:\\users\\alexa\\source\\repos\\nopilate\\core\\m2_lexico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|solutionrelative:core\\m2_lexico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|c:\\users\\alexa\\source\\repos\\nopilate\\core\\m6_salida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|solutionrelative:core\\m6_salida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|C:\\Users\\alexa\\source\\repos\\NOPILATE\\ui\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|solutionrelative:ui\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|c:\\users\\alexa\\source\\repos\\nopilate\\core\\m5_estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|solutionrelative:core\\m5_estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|c:\\users\\alexa\\source\\repos\\nopilate\\core\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|solutionrelative:core\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|c:\\users\\alexa\\source\\repos\\nopilate\\core\\m0_dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD30949D-E4DD-4086-BDBD-7B02789AD28A}|NolipateSimulator.csproj|solutionrelative:core\\m0_dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NolipateSimulator.csproj",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\NolipateSimulator.csproj",
+              "RelativeDocumentMoniker": "NolipateSimulator.csproj",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\NolipateSimulator.csproj",
+              "RelativeToolTip": "NolipateSimulator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-10T22:58:07.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\UI\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "UI\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\UI\\FormPrincipal.cs",
+              "RelativeToolTip": "UI\\FormPrincipal.cs",
+              "ViewState": "AgIAAA0CAAAAAAAAAAAqwC4CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T23:03:11.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "M2_Lexico.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\M2_Lexico.cs",
+              "RelativeDocumentMoniker": "Core\\M2_Lexico.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\M2_Lexico.cs",
+              "RelativeToolTip": "Core\\M2_Lexico.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAowG0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T23:02:09.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "M3_Sintactico.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\M3_Sintactico.cs",
+              "RelativeDocumentMoniker": "Core\\M3_Sintactico.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\M3_Sintactico.cs",
+              "RelativeToolTip": "Core\\M3_Sintactico.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAANcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T23:01:52.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "M4_Semantico.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\M4_Semantico.cs",
+              "RelativeDocumentMoniker": "Core\\M4_Semantico.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\M4_Semantico.cs",
+              "RelativeToolTip": "Core\\M4_Semantico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T23:01:38.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "M6_Salida.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\M6_Salida.cs",
+              "RelativeDocumentMoniker": "Core\\M6_Salida.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\M6_Salida.cs",
+              "RelativeToolTip": "Core\\M6_Salida.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T23:01:11.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "M5_Estado.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\M5_Estado.cs",
+              "RelativeDocumentMoniker": "Core\\M5_Estado.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\M5_Estado.cs",
+              "RelativeToolTip": "Core\\M5_Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T23:00:23.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\Constantes.cs",
+              "RelativeDocumentMoniker": "Core\\Constantes.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\Constantes.cs",
+              "RelativeToolTip": "Core\\Constantes.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T22:57:54.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "M0_Dado.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\M0_Dado.cs",
+              "RelativeDocumentMoniker": "Core\\M0_Dado.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\Core\\M0_Dado.cs",
+              "RelativeToolTip": "Core\\M0_Dado.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T22:57:16.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\UI\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "UI\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\NOPILATE\\UI\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T22:55:56.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
